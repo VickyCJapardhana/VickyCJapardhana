@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicky cliff japaradhana 
 - 👀 I’m interested about Machine Learning/AI
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me VickycJapardhana@gmail.com 
 
